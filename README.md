@@ -1,7 +1,8 @@
 # STEP_session_9
-# Calculus
 
 ## The big picture
+
+# Calculus
 
 ## Limits
 
